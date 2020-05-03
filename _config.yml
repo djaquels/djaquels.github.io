@@ -8,7 +8,8 @@ description: Portfolio And Blog.
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: 'assets/images/logo.png'
+picture: 'assets/images/avatar.png'
+banner: 'assets/images/logo.png'
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
@@ -33,8 +34,8 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
+#facebook: myfacebook
+twitter: mrachepor
 # instagram: myinstagram
 # pinterest: mypinterest
 # linkedin: mylinkedin
