@@ -148,3 +148,8 @@ skills:
     spring: 'assets/images/skills/spring.png'
     rails: 'assets/images/skills/rails.png'
     node: 'assets/images/skills/node.png'
+  tools:
+    git: 'assets/images/skills/git.png'
+    docker: 'assets/images/skills/docker.png'
+    linux: 'assets/images/skills/tux.png'
+    cisco: 'assets/images/skills/cisco.png'

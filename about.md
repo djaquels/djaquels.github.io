@@ -29,16 +29,16 @@ layout: page
 <ul class="skill-list">
     Systems & Tools
 	<li>
-	 <img class="skills-image" alt="{{ site.name }}" src="{% if site.external-image %}{{ site.skills.backend.laravel }}{% else %}{{ site.url }}/{{ site.skills.backend.laravel }}{% endif %}" />
+	 <img class="skills-image" alt="{{ site.name }}" src="{% if site.external-image %}{{ site.skills.backend.git }}{% else %}{{ site.url }}/{{ site.skills.backend.git }}{% endif %}" />
 	</li>
 	<li>
-	 <img class="skills-image" alt="{{ site.name }}" src="{% if site.external-image %}{{ site.skills.backend.node }}{% else %}{{ site.url }}/{{ site.skills.backend.node }}{% endif %}" />
+	 <img class="skills-image" alt="{{ site.name }}" src="{% if site.external-image %}{{ site.skills.backend.docker }}{% else %}{{ site.url }}/{{ site.skills.backend.docker }}{% endif %}" />
 	</li>
 	<li>
-	 <img class="skills-image" alt="{{ site.name }}" src="{% if site.external-image %}{{ site.skills.backend.spring }}{% else %}{{ site.url }}/{{ site.skills.backend.spring }}{% endif %}" />
+	 <img class="skills-image" alt="{{ site.name }}" src="{% if site.external-image %}{{ site.skills.backend.linux }}{% else %}{{ site.url }}/{{ site.skills.backend.linux }}{% endif %}" />
 	</li>
 	<li>
-	 <img class="skills-image" alt="{{ site.name }}" src="{% if site.external-image %}{{ site.skills.backend.rails }}{% else %}{{ site.url }}/{{ site.skills.backend.rails }}{% endif %}" />
+	 <img class="skills-image" alt="{{ site.name }}" src="{% if site.external-image %}{{ site.skills.backend.cisco }}{% else %}{{ site.url }}/{{ site.skills.backend.cisco }}{% endif %}" />
 	</li>
 </ul>
 <h2>Projects</h2>
