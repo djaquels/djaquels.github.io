@@ -11,7 +11,7 @@ layout: page
 <h2>Skills</h2>
 
 <ul class="skill-list">
-	<li>aPHP / Laravel </li>
+	<li>PHP / Laravel </li>
 </ul>
 
 <h2>Projects</h2>
