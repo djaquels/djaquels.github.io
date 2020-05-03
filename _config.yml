@@ -9,6 +9,7 @@ description: Portfolio And Blog.
 # better with square images
 external-image: false
 picture: 'assets/images/avatar.png'
+me:      'assets/images/me.jpg'
 banner: 'assets/images/logo.png'
 
 # If you want to include your resume, set to true
