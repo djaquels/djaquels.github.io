@@ -2,6 +2,7 @@
 title: About
 layout: page
 ---
+![Profile Image]({% if site.external-image %}{{ site.me }}{% else %}{{ site.url }}/{{ site.me }}{% endif %})
 
 <p>
 <strong>Hello!</strong> I'm Daniel a mexican born human. Who...
