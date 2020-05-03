@@ -13,7 +13,7 @@ layout: page
 <ul class="skill-list">
 	<li>
 	 <img class="skills-image" alt="{{ site.name }}" src="{% if site.external-image %}{{ site.skills.backend.laravel }}{% else %}{{ site.url }}/{{ site.skills.backend.laravel }}{% endif %}" />
-	<li>
+	</li>
 </ul>
 
 <h2>Projects</h2>
