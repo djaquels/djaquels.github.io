@@ -1,4 +1,7 @@
 <nav class="{% if page.title == "Home" %}nav-home{% else %}nav{% endif %}">
+    <a class="link" href="{{ site.url }}/">
+        <img class="selfie" alt="{{ site.name }}" src="{% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %}" />
+    </a>
     <ul class="list">
         {% if page.title != "Home" %}
             <li class="item">
