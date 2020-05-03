@@ -26,6 +26,21 @@ layout: page
 	</li>
 </ul>
 
+<ul class="skill-list">
+    Systems & Tools
+	<li>
+	 <img class="skills-image" alt="{{ site.name }}" src="{% if site.external-image %}{{ site.skills.backend.laravel }}{% else %}{{ site.url }}/{{ site.skills.backend.laravel }}{% endif %}" />
+	</li>
+	<li>
+	 <img class="skills-image" alt="{{ site.name }}" src="{% if site.external-image %}{{ site.skills.backend.node }}{% else %}{{ site.url }}/{{ site.skills.backend.node }}{% endif %}" />
+	</li>
+	<li>
+	 <img class="skills-image" alt="{{ site.name }}" src="{% if site.external-image %}{{ site.skills.backend.spring }}{% else %}{{ site.url }}/{{ site.skills.backend.spring }}{% endif %}" />
+	</li>
+	<li>
+	 <img class="skills-image" alt="{{ site.name }}" src="{% if site.external-image %}{{ site.skills.backend.rails }}{% else %}{{ site.url }}/{{ site.skills.backend.rails }}{% endif %}" />
+	</li>
+</ul>
 <h2>Projects</h2>
 
 <ul>

@@ -145,3 +145,6 @@ exclude:
 skills:
   backend:
     laravel: 'assets/images/skills/laravel-logo.png'
+    spring: 'assets/images/skills/spring.png'
+    rails: 'assets/images/skills/rails.png'
+    node: 'assets/images/skills/node.png'
