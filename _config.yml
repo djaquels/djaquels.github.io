@@ -142,6 +142,6 @@ exclude:
     "node_modules",
     "vendor",
   ]
-skils:
+skills:
   backend:
     laravel: 'assets/images/skills/laravel-logo.png'

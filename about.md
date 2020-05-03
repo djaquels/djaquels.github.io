@@ -11,7 +11,9 @@ layout: page
 <h2>Skills</h2>
 
 <ul class="skill-list">
-	<li>![Profile Image]({% if site.external-image %}{{ site.skills.backend.laravel }}{% else %}{{ site.url }}/{{ site.skills.backend.laravel }}{% endif %})<li>
+	<li>
+	 <img class="skills-image" alt="{{ site.name }}" src="{% if site.external-image %}{{ site.skills.backend.laravel }}{% else %}{{ site.url }}/{{ site.skills.backend.laravel }}{% endif %}" />
+	<li>
 </ul>
 
 <h2>Projects</h2>
