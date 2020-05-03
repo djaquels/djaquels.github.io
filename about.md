@@ -41,8 +41,4 @@ layout: page
 	 <img class="skills-image" alt="{{ site.name }}" src="{% if site.external-image %}{{ site.skills.tools.cisco }}{% else %}{{ site.url }}/{{ site.skills.tools.cisco }}{% endif %}" />
 	</li>
 </ul>
-<h2>Projects</h2>
-
-<ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-</ul>
+<p></p>
