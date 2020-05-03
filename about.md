@@ -2,7 +2,13 @@
 title: About
 layout: page
 ---
-![Profile Image]({% if site.external-image %}{{ site.me }}{% else %}{{ site.url }}/{{ site.me }}{% endif %})
+<div class="toleft">
+        <img
+            class="selfie"
+            src="{% if site.authors[page.author].external-image == true %}{{ site.authors[page.author].me }}{% else %}{{ site.url }}/{{ site.authors[page.author].me }}{% endif %}"
+            alt="{{ site.authors[page.author].name }}"
+        />
+</div>
 
 <p>
 
