@@ -2,7 +2,7 @@
 title: About
 layout: page
 ---
-
+<img class="me" alt="{{ site.name }}" src="{% if site.external-image %}{{ site.me }}{% else %}{{ site.url }}/{{ site.me }}{% endif %}" />
 <p>
 <strong>Hello!</strong> I'm Daniel a mexican born human. Who...
 </p>
