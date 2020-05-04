@@ -19,7 +19,7 @@ On codesignal.com we can find interesting code challenges we can use to practice
 interview or just to past the time in a fun way.
 
 There i found this challge, where we have a binary tree, we can call them T , and a integer number named S.
-Our goal is to find if its a path from root to any leaf, where the sum of each node is eqaul to the target number S.
+Our goal is to find if there is a path from root to any leaf, where the sum of each node is eqaul to the target number S.
 
 I share two solutions, the first is my own solution i code. And the second is a different aproach i like it when 
 i read the code.
@@ -75,14 +75,14 @@ boolean hasPathWithGivenSum(Tree<Integer> t, int s) {
 
 ```
 
-There are one proble with this code, the first is that even if i find the path, i still have to read the rest of the nodes.
+There are two problems with this code, the first is that even if i find the path, i still have to read the rest of the nodes. And the second is the use of global variables, which is a bad practice.
 
 So i also share this other solution.
 
 ## A Simpler Solution
 This is other aproach by the user [@jakzo](https://app.codesignal.com/profile/jakzo) that i found interesting.
 
-In the next code the aproach is that i start from S and every node i rest the node valuo (T) to S.
+In the next code the aproach is that we can start from S and every node i rest the node valuo (T) to S.
 When i found a leaf i check if the s value is equal to 0 . That indicates the path exists.
 
 The code still has the issue that we have to read all the tree. But i think with this aprach we can have
