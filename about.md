@@ -7,13 +7,13 @@ layout: page
 <strong>Hello!</strong> I'm Daniel a mexican born human. Who likes a lot the software development process.
 Throw technolgy i think a lot of social problems can be solved. 
 
-</br>
+
 This is my personal portfolio, blog and space where i share some content about my journey in technology.
 From Engenieering to Networks Administration.
 
-</br>
+
  I had work with cisco routing and switching desing and implementation enterprise networks. Sofftware development
- using API'S development tools.
+ using API'S development tools. The actual challenge is to perfect my english skills.
 </p>
 
 <h2>Skills</h2>
