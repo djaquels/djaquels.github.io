@@ -12,8 +12,7 @@ This is my personal portfolio, blog and space where i share some content about m
 From Engenieering to Networks Administration.
 
 
- I had work with cisco routing and switching desing and implementation enterprise networks. Sofftware development
- using API'S development tools. The actual challenge is to perfect my english skills.
+ I had work with cisco routing and switching desing and implementation enterprise networks. Alsos in Sofftware development using API'S development tools.
 </p>
 
 <h2>Skills</h2>
