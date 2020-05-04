@@ -4,7 +4,16 @@ layout: page
 ---
 <img class="me" alt="{{ site.name }}" src="{% if site.external-image %}{{ site.me }}{% else %}{{ site.url }}/{{ site.me }}{% endif %}" />
 <p>
-<strong>Hello!</strong> I'm Daniel a mexican born human. Who...
+<strong>Hello!</strong> I'm Daniel a mexican born human. Who likes a lot the software development process.
+Throw technolgy i think a lot of social problems can be solved. 
+
+</br>
+This is my personal portfolio, blog and space where i share some content about my journey in technology.
+From Engenieering to Networks Administration.
+
+</br>
+ I had work with cisco routing and switching desing and implementation enterprise networks. Sofftware development
+ using API'S development tools.
 </p>
 
 <h2>Skills</h2>
