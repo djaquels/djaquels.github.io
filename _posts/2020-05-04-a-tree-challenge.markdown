@@ -2,7 +2,7 @@
 title: "A tree challenge"
 layout: post
 date: 2020-05-04 22:48
-image: /assets/images/markdown.jpg
+image: /assets/images/posts/spongebob.jpg
 headerImage: true
 tag:
 - markdown
