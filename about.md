@@ -53,5 +53,27 @@ From Engenieering to Networks Administration.
 <p></p>
 <p></p>
 <h1> Languages: </h1>
-<object data="{{ site.skills.langs.clojure }}" type="image/svg+xml">
+<object data="/{{ site.skills.langs.clojure }}" type="image/svg+xml">
+</object>
+<object data="/{{ site.skills.langs.java }}" type="image/svg+xml">
+</object>
+<object data="/{{ site.skills.langs.groovy }}" type="image/svg+xml">
+</object>
+<object data="/{{ site.skills.langs.kotlin }}" type="image/svg+xml">
+</object>
+<object data="/{{ site.skills.langs.ruby }}" type="image/svg+xml">
+</object>
+<object data="/{{ site.skills.langs.py3 }}" type="image/svg+xml">
+</object>
+<object data="/{{ site.skills.langs.js }}" type="image/svg+xml">
+</object>
+<object data="/{{ site.skills.langs.php }}" type="image/svg+xml">
+</object>
+<object data="/{{ site.skills.langs.julia }}" type="image/svg+xml">
+</object>
+<object data="/{{ site.skills.langs.rb }}" type="image/svg+xml">
+</object>
+<object data="/{{ site.skills.langs.ocaml }}" type="image/svg+xml">
+</object>
+<object data="/{{ site.skills.langs.c }}" type="image/svg+xml">
 </object>

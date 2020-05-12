@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Kotlin</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="-16.836%" y1="91.94%" x2="76.2192%" y2="-1.116%" id="linearGradient-1">
+            <stop stop-color="#C757BC" offset="10.8%"></stop>
+            <stop stop-color="#CD5CA9" offset="17.3%"></stop>
+            <stop stop-color="#E8744F" offset="49.2%"></stop>
+            <stop stop-color="#F88316" offset="71.6%"></stop>
+            <stop stop-color="#FF8900" offset="82.3%"></stop>
+        </linearGradient>
+        <linearGradient x1="31.9144%" y1="135.923413%" x2="77.2712%" y2="45.61152%" id="linearGradient-2">
+            <stop stop-color="#00AFFF" offset="29.6%"></stop>
+            <stop stop-color="#5282FF" offset="69.4%"></stop>
+            <stop stop-color="#945DFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-150.1%" y1="3124.46115%" x2="3827.2%" y2="-472.010065%" id="linearGradient-3">
+            <stop stop-color="#00AFFF" offset="29.6%"></stop>
+            <stop stop-color="#5282FF" offset="69.4%"></stop>
+            <stop stop-color="#945DFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#00AFFF" offset="0%"></stop>
+            <stop stop-color="#756EFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Levels-and-languages" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Kotlin">
+            <g transform="translate(1.000000, 0.000000)">
+                <path d="M23.0024823,0.00283048074 L23.0024823,0 L22.9971631,0 L22.9971631,0.00283048074 L0,11.3551811 C0,38.7966919 22.6163061,47.8457388 22.9971631,47.9971695 L22.9971631,48 L23,47.9985848 L23.0024823,48 L23.0024823,47.9971695 C23.3844031,47.8457388 46,38.7966919 46,11.3551811 L23.0024823,0.00283048074" id="Path" fill="#F2F5F7"></path>
+                <g id="kotlin-1" transform="translate(12.000000, 11.000000)" fill-rule="nonzero">
+                    <g id="icon_Kotlin">
+                        <polygon id="Shape" fill="url(#linearGradient-1)" points="11.045584 0 0 11.615824 0 22 11.029744 10.950896 22 0"></polygon>
+                        <polygon id="Shape" fill="url(#linearGradient-2)" points="0 22 11.029744 10.951072 22 22"></polygon>
+                        <polygon id="Shape" fill="url(#linearGradient-3)" points="0 0 11.045584 0 0 11.615824"></polygon>
+                    </g>
+                </g>
+                <path d="M23.0024823,0.00283048074 L23.0024823,0 L22.9971631,0 L22.9971631,0.00283048074 L0,11.3551811 C0,38.7966919 22.6163061,47.8457388 22.9971631,47.9971695 L22.9971631,48 L23,47.9985848 L23.0024823,48 L23.0024823,47.9971695 C23.3844031,47.8457388 46,38.7966919 46,11.3551811 L23.0024823,0.00283048074 M23.0024983,44.9985668 L23.0024983,45 L22.9971448,45 L22.9971448,44.9985668 C22.6659469,44.865635 3,36.945981 3,12.9365626 L22.9971448,3.00179153 L22.9971448,3 L23,3.00143323 L23.0024983,3 L23.0024983,3.00179153 L43,12.9365626 C43,36.945981 23.3336962,44.865635 23.0024983,44.9985668" id="Fill-3" fill="url(#linearGradient-4)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

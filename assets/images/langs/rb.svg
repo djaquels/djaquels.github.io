@@ -1,0 +1,44 @@
+<svg width="48" height="48" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>RB_shield</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-447 61)">
+<clipPath id="clip-0" clip-rule="evenodd">
+<path d="M 447 -61L 495 -61L 495 -13L 447 -13L 447 -61Z" fill="#FFFFFF"/>
+</clipPath>
+<g id="RB_shield" clip-path="url(#clip-0)">
+<g id="RB_shield">
+<g id="Fill 1">
+<use xlink:href="#path0_fill" transform="translate(448.1 -60.7509)" fill="#FFFFFF"/>
+</g>
+<g id="Fill 3">
+<use xlink:href="#path1_fill" transform="translate(448.1 -60.7509)" fill="url(#paint1_linear)"/>
+</g>
+<g id="Ruby">
+<g id="Rectangle 92">
+<use xlink:href="#path2_fill" transform="translate(456.762 -47.9091)" fill="#CB4335"/>
+</g>
+<g id="Rectangle 93">
+<use xlink:href="#path3_fill" transform="translate(456.762 -47.9091)" fill="#F75443"/>
+</g>
+<g id="Rectangle 93 Copy">
+<use xlink:href="#path3_fill" transform="matrix(-1 0 0 1 485.238 -47.9091)" fill="#F75443"/>
+</g>
+<g id="Rectangle 95">
+<use xlink:href="#path4_fill" transform="translate(464.528 -41.2424)" fill="#E74C3C"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<linearGradient id="paint1_linear" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0 47.5326 -45.9002 0 22.9501 0)">
+<stop offset="0" stop-color="#FF631E"/>
+<stop offset="1" stop-color="#E74C3C"/>
+</linearGradient>
+<path id="path0_fill" fill-rule="evenodd" d="M 0 11.2446C 0 38.4189 22.5672 47.3799 22.9473 47.5298C 23.3337 47.3799 45.9002 38.4189 45.9002 11.2446L 22.9526 0.00280292L 0 11.2446Z"/>
+<path id="path1_fill" fill-rule="evenodd" d="M 22.9526 0.00280292L 22.9526 0L 22.9473 0L 22.9473 0.00280292L 0 11.2446C 0 38.4189 22.5672 47.3799 22.9473 47.5298L 22.9473 47.5326L 22.9501 47.5312L 22.9526 47.5326L 22.9526 47.5298C 23.3337 47.3799 45.9002 38.4189 45.9002 11.2446L 22.9526 0.00280292ZM 22.9526 44.2991L 22.9526 44.3005L 22.9473 44.3005L 22.9473 44.2991C 22.6189 44.1691 3.12093 36.425 3.12093 12.9477L 22.9473 3.23317L 22.9473 3.23141L 22.9501 3.23282L 22.9526 3.23141L 22.9526 3.23317L 42.7793 12.9477C 42.7793 36.425 23.281 44.1691 22.9526 44.2991Z"/>
+<path id="path2_fill" fill-rule="evenodd" d="M 0 6.66667C 0 6.66667 6.1824 0 6.68485 0C 13.8784 0 14.6 0 21.7936 0C 22.2953 0 28.4762 6.66667 28.4762 6.66667L 14.2381 23.9546L 0 6.66667Z"/>
+<path id="path3_fill" fill-rule="evenodd" d="M 6.47186 0L 14.2381 0L 7.76623 6.66667L 0 6.66667L 6.47186 0Z"/>
+<path id="path4_fill" fill-rule="evenodd" d="M 0 0L 12.9437 0L 6.47186 17.3202L 0 0Z"/>
+</defs>
+</svg>

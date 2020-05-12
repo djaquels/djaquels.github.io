@@ -156,4 +156,15 @@ skills:
     cisco: 'assets/images/skills/cisco.png'
   langs:
     clojure: 'assets/images/langs/clojure.svg'
+    java: 'assets/images/langs/java.svg'
+    ruby: 'assets/images/langs/ruby.svg'
+    js: 'assets/images/langs/js.svg'
+    python: 'assets/images/langs/py3.svg'
+    rb: 'assets/images/langs/rb.svg'
+    php: 'assets/images/langs/php.svg'
+    ocaml: 'assets/images/langs/ocaml.svg'
+    kotlin: 'assets/images/langs/kotlin.svg'
+    julia: 'assets/images/langs/julia.svg'
+    groovy: 'assets/images/langs/groovy.svg'
+    c: 'assets/images/langs/c.svg'
 
