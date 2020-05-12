@@ -51,3 +51,7 @@ From Engenieering to Networks Administration.
 <p></p>
 <p></p>
 <p></p>
+
+### Languages
+<object data="site.skills.langs.clojure" type="image/svg+xml">
+</object>

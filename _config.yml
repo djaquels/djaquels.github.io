@@ -154,3 +154,6 @@ skills:
     docker: 'assets/images/skills/docker.png'
     linux: 'assets/images/skills/tux.png'
     cisco: 'assets/images/skills/cisco.png'
+  langs:
+    clojure: 'assets/images/langs/clojure.svg'
+
