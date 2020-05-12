@@ -52,7 +52,7 @@ From Engenieering to Networks Administration.
 <p></p>
 <p></p>
 <p></p>
-<h1> Languages: </h1>
+<h1 class="clear: inline-end;"> Languages: </h1>
 <object data="/{{ site.skills.langs.clojure }}" type="image/svg+xml">
 </object>
 <object data="/{{ site.skills.langs.java }}" type="image/svg+xml">
