@@ -63,7 +63,7 @@ From Engenieering to Networks Administration.
 </object>
 <object data="/{{ site.skills.langs.ruby }}" type="image/svg+xml">
 </object>
-<object data="/{{ site.skills.langs.py3 }}" type="image/svg+xml">
+<object data="/{{ site.skills.langs.python }}" type="image/svg+xml">
 </object>
 <object data="/{{ site.skills.langs.js }}" type="image/svg+xml">
 </object>
