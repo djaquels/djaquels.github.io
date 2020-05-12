@@ -53,5 +53,5 @@ From Engenieering to Networks Administration.
 <p></p>
 <p></p>
 <h1> Languages: </h1>
-<object data="site.skills.langs.clojure" type="image/svg+xml">
+<object data="{{ site.skills.langs.clojure }}" type="image/svg+xml">
 </object>
