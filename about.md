@@ -15,7 +15,7 @@ From Engenieering to Networks Administration.
  I had work with cisco routing and switching desing and implementation enterprise networks. Alsos in Sofftware development using API'S development tools.
 </p>
 
-<h2>Skills</h2>
+<h2 class="clear: inline-end;">Skills</h2>
 
 <ul class="skill-list">
     Backend
