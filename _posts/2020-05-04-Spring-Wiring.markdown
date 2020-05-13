@@ -1,7 +1,7 @@
 ---
 title: "Solving Spring Wiring With Repositories"
 layout: post
-date: 2020-06-04 22:48
+date: 2020-05-04 22:48
 image: /assets/images/posts/good.jpg
 headerImage: true
 tag:
