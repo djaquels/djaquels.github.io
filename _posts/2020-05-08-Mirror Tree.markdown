@@ -1,7 +1,7 @@
 ---
 title: "IsMirror Tree Code - A Functional Aproach"
 layout: post
-date: 2020-06-04 22:48
+date: 2020-05-04 22:48
 image: /assets/images/posts/spongebob.jpg
 headerImage: true
 tag:
@@ -21,7 +21,7 @@ Hector Daniel Jacales Rojas <hjacales@gmail.com>
     We need to find if a a binary tree is a Mirror, a tree is a mirror if the
     left branch is symetric to the right branch. This means that we can draw an imaginary line in the middle of the tree
     and the branches most be equal.
-
+    
     The data structure of a binary tree is quite simple:
     Tree : {
         value : integer

@@ -5,14 +5,14 @@ layout: page
 <img class="me" alt="{{ site.name }}" src="{% if site.external-image %}{{ site.me }}{% else %}{{ site.url }}/{{ site.me }}{% endif %}" />
 <p>
 <strong>Hello!</strong> I'm Daniel a mexican born human. Who likes a lot the software development process.
-Throw technolgy i think a lot of social problems can be solved. 
+Throw technolgy I think a lot of social problems can be solved. 
 
 
-This is my personal portfolio, blog and space where i share some content about my journey in technology.
-From Engenieering to Networks Administration.
 
+This is my personal portfolio, blog and space where I share some content about my journey in technology.
+From Engineering to Networks Administration.
 
- I had work with cisco routing and switching desing and implementation enterprise networks. Alsos in Sofftware development using API'S development tools.
+ I had work with Cisco routing and switching networks and implementation. Also in Software development using API'S development tools. I like making software for financial tools and market.
 </p>
 
 <h2 class="clear: inline-end;">Skills</h2>
