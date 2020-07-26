@@ -17,7 +17,7 @@ logo: 'assets/images/logo.png'
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://google.com/?q=my+resume
+resume-url: https://github.com/djaquels/djaquels.github.io/blob/master/resumeDanielJacales.pdf
 
 url: https://djaquels.github.io/
 
@@ -79,7 +79,7 @@ pagination:
   sort_reverse: true # display recent posts first
   title: ":title" # Changing this will mess up the header display logic
   per_page: 5
-  permalink: "/:num/" # pagination link that will be appended
+  permalink: "/:num/" #ff pagination link that will be appended
 
 # if you don't need projects, comment the *projects* configs below
 projects: true
