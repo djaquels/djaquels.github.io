@@ -4,6 +4,15 @@ body,html {
   margin: 0px;
   overflow-x: hidden;
 }
+
+@media screen and (max-width: 1000px) {
+  .left {
+    margin-left: 0px !important;
+  }
+  audio {
+    visibility: hidden;
+  }
+}
 .circle:hover{
   box-shadow: 0px 0px 60px #afdddf;
   border-radius: 50%;
@@ -260,3 +269,4 @@ box-shadow: 0px 0px 78px 4px #9e215b;
 box-shadow: 0px 0px 78px 4px #9e215b;
   }
 }
+
