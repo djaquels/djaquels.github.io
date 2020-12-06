@@ -43,7 +43,7 @@ audio{
   font-size: 50px;
   font-family: 'Bungee Hairline', cursive;
   position: absolute;
-  bottom: 50px;
+  bottom: 0px;
   left: 5%;
 }
 .card {
@@ -115,6 +115,7 @@ h1 {
   font-size: 40px;
 }
 .bar{
+  margin-top:25px;
   margin: auto;
   border-bottom:20px solid #9e215b;
   width: 70%;
