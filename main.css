@@ -38,12 +38,14 @@ audio{
   width: 100%;
   box-shadow: 0px 0px 60px #9c436c;
   background: #9e215b;
+  position:absolute;
+  bottom:0px;
 }
 .music{
   font-size: 50px;
   font-family: 'Bungee Hairline', cursive;
   position: absolute;
-  bottom: 50px;
+  bottom: 0px;
   left: 5%;
 }
 .card {
@@ -115,6 +117,7 @@ h1 {
   font-size: 40px;
 }
 .bar{
+  margin-top:25px !important;
   margin: auto;
   border-bottom:20px solid #9e215b;
   width: 70%;
